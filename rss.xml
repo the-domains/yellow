@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Yellow Conference]]></title>
         <description><![CDATA[Yellow Conference]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yellow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 20:55:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Aug 2016 20:55:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yellow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"We are what we repeatedly do. Excellence, therefore, is not an act but a habit." ~ Aristotle</p>]]></description>
+            <link>https://twitter.com/yellowconf/status/767984471341731840</link>
+            <guid isPermaLink="false">27645b07-a29e-4635-a330-0aff0f83adc1</guid>
+            <pubDate>Tue, 23 Aug 2016 20:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="For those who will roll up their sleeves, step out in courage, &amp; use creativity for good. http://yellowconference.com/conference/" src="https://pbs.twimg.com/media/CnXjaucUAAAVuQu.jpg:large">]]></description>
