@@ -1,42 +1,41 @@
 ---
-description: thescoop@yellowconference.com
-dateModified: '2016-08-23T21:06:37.944Z'
-datePublished: '2016-08-23T21:07:23.267Z'
-title: 'FOR CONFERENCE QUESTIONS, COMMENTS, OR CONCERNS:'
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-23T21:11:14.630Z'
 sourcePath: _posts/2016-08-23-for-conference-questions-comments-or-concerns.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T21:11:14.102Z'
+title: 'FOR CONFERENCE QUESTIONS, COMMENTS, OR CONCERNS:'
+publisher: {}
+description: thescoop@yellowconference.com
+starred: false
+url: for-conference-questions-comments-or-concerns/index.html
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2255d33-b734-4a97-929d-a76eeffb35d6.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/34127f9f798394a7d742a7f9b6f44705/croprotate.jpg?cropheight=1448&cropwidth=3669&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb2255d33-b734-4a97-929d-a76eeffb35d6.jpg&x=0&y=0)
 
-## FOR CONFERENCE QUESTIONS, COMMENTS, OR CONCERNS:
+# FOR CONFERENCE QUESTIONS, COMMENTS, OR CONCERNS:
 
 _[thescoop@yellowconference.com][0]_
 
-## LOOKING FORWARD TO HEARING FROM YOU!
+LOOKING FORWARD TO HEARING FROM YOU!
 
-## **INTERESTED IN SPONSORING OUR CONFERENCE?**
+INTERESTED IN SPONSORING OUR CONFERENCE?
 
-### EMAIL: [HEYGIRL@YELLOWCONFERENCE.COM][1]
+EMAIL: [HEYGIRL@YELLOWCONFERENCE.COM][1]
 
-## **WE'RE ALWAYS LOOKING FOR COOL PRODUCTS TO FILL OUR CURATED CONFERENCE GOODIE BAGS. INTERESTED?**
+### **WE'RE ALWAYS LOOKING FOR COOL PRODUCTS TO FILL OUR CURATED CONFERENCE GOODIE BAGS. INTERESTED?**
 
-### EMAIL: [KATHRYN@YELLOWCONFERENCE.COM][2]
+EMAIL: [KATHRYN@YELLOWCONFERENCE.COM][2]
 
-## **INTERESTED IN SPONSORING OUR BLOG?**
+**INTERESTED IN SPONSORING OUR BLOG?**
 
-### EMAIL: [SALLY@YELLOWCONFERENCE.COM][3]
+EMAIL: [SALLY@YELLOWCONFERENCE.COM][3]
 
-## **FOR BLOG OR PHOTOGRAPHY SUBMISSIONS (WE'RE ALWAYS LOOKING FOR GREAT BLOGGERS + PHOTOGRAPHERS!)**
+**FOR BLOG OR PHOTOGRAPHY SUBMISSIONS (WE'RE ALWAYS LOOKING FOR GREAT BLOGGERS + PHOTOGRAPHERS!)**
 
-### EMAIL: [SALLY@YELLOWCONFERENCE.COM][3]
+EMAIL: [SALLY@YELLOWCONFERENCE.COM][3]
 
 [0]: mailto:thescoop@yellowconference.com
 [1]: mailto:heygirl@yellowconference.com
