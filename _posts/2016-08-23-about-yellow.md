@@ -1,18 +1,18 @@
 ---
+datePublished: '2016-08-23T20:54:22.236Z'
+sourcePath: _posts/2016-08-23-about-yellow.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T20:54:21.669Z'
+title: ABOUT YELLOW
+publisher: {}
 description: >-
   Featuring past speakers such as Caitlin Crosby (Founder of The Giving Keys),
   Sarah Dubbeldam (Founder of Darling Magazine), Vik Harrison (VP of Creative at
   charity:water) & many more badass world-changers, The Yellow conference
   gathers hard working women who know they were built for purpose. WOMEN LIKE
   YOU.
-dateModified: '2016-08-23T20:50:14.707Z'
-datePublished: '2016-08-23T20:50:15.183Z'
-title: ABOUT YELLOW
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-23-about-yellow.md
-hasPage: true
 starred: false
 url: about-yellow/index.html
 _type: Blurb
