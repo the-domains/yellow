@@ -1,14 +1,28 @@
+name: Yellow
+favicon: null
 layout_spectrum: 0.5292574209161103
 typography_spectrum: 0.4756343262270093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.7854074114002287
-  lightness: 0.8998875960242003
-  saturation: 0.18021337618120015
-  rhythmicContrast: 0.3671422216575593
   brandColors:
     - '#FFFFFF'
     - '#F2E93B'
     - '#000000'
     - '#717171'
     - '#35570A'
-name: Yellow
+  brandStrength: 0.7854074114002287
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
