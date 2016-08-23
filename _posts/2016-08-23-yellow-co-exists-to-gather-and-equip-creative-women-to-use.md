@@ -1,17 +1,17 @@
 ---
-id: d9fe2a14-c62c-4bae-b282-44532699bea9
-dateModified: '2016-08-23T21:40:24.310Z'
-title: >-
-  Yellow Co. exists to gather and equip creative women to use their passion,
-  strengths, and influence to serve the greater good. 
-datePublished: '2016-08-23T21:41:14.479Z'
-author: []
-isBasedOnUrl: null
+datePublished: '2016-08-23T21:57:21.207Z'
 sourcePath: >-
   _posts/2016-08-23-yellow-co-exists-to-gather-and-equip-creative-women-to-use.md
-description: ''
-publisher: {}
+isBasedOnUrl: null
+author: []
 via: {}
+dateModified: '2016-08-23T21:57:20.785Z'
+title: >-
+  Yellow Co. exists to gather and equip creative women to use their passion,
+  strengths, and influence to serve the greater good.
+id: d9fe2a14-c62c-4bae-b282-44532699bea9
+publisher: {}
+description: ''
 starred: true
 inFeed: true
 hasPage: false
