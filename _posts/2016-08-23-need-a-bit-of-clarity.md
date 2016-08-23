@@ -1,13 +1,13 @@
 ---
-description: Receive clarity & focus for your passion in 4 steps.
-dateModified: '2016-08-23T20:35:28.232Z'
-datePublished: '2016-08-23T20:35:35.175Z'
-title: NEED A BIT OF CLARITY?
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-23T21:07:08.837Z'
 sourcePath: _posts/2016-08-23-need-a-bit-of-clarity.md
+author: []
+via: {}
+dateModified: '2016-08-23T20:58:21.124Z'
+title: NEED A BIT OF CLARITY?
+publisher: {}
+description: Receive clarity & focus for your passion in 4 steps.
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
