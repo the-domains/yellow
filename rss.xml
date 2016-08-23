@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yellow Conference]]></title>
+        <description><![CDATA[Yellow Conference]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Aug 2016 20:55:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="For those who will roll up their sleeves, step out in courage, &amp; use creativity for good. http://yellowconference.com/conference/" src="https://pbs.twimg.com/media/CnXjaucUAAAVuQu.jpg:large">]]></description>
+            <link>https://twitter.com/yellowconf/status/753758813145010176</link>
+            <guid isPermaLink="false">bba94377-e962-42b4-8d86-04cd85c28fc2</guid>
+            <pubDate>Tue, 23 Aug 2016 20:55:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
