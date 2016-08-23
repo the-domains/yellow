@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T21:07:08.837Z'
+datePublished: '2016-08-23T21:08:49.435Z'
 sourcePath: _posts/2016-08-23-need-a-bit-of-clarity.md
 author: []
 via: {}
-dateModified: '2016-08-23T20:58:21.124Z'
+dateModified: '2016-08-23T21:08:48.536Z'
 title: NEED A BIT OF CLARITY?
 publisher: {}
 description: Receive clarity & focus for your passion in 4 steps.
