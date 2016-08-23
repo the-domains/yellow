@@ -1,19 +1,4 @@
-name: Yellow
-favicon: null
-layout_spectrum: 0.5292574209161103
 typography_spectrum: 0.4756343262270093
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -25,4 +10,22 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5292574209161103
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
+name: Yellow
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 purpose: []
