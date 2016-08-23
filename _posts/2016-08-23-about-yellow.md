@@ -5,18 +5,17 @@ description: >-
   charity:water) & many more badass world-changers, The Yellow conference
   gathers hard working women who know they were built for purpose. WOMEN LIKE
   YOU.
-dateModified: '2016-08-23T20:49:39.356Z'
-datePublished: '2016-08-23T20:50:02.505Z'
+dateModified: '2016-08-23T20:50:14.707Z'
+datePublished: '2016-08-23T20:50:15.183Z'
 title: ABOUT YELLOW
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-about-yellow.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: about-yellow/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baebe214-9081-4ef0-ac2e-a1c9ea915b60.jpg)
