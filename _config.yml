@@ -21,11 +21,15 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
-name: Yellow
+name: Yellow Conference
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: ABOUT YELLOW
+    id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 purpose: []
