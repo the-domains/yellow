@@ -36,6 +36,10 @@ navigation:
   - name: JOIN The Grid Community
     url: 'https://thegrid.io/purchase/pause/'
     type: external
+  - name: JOIN the Yellow Collective
+    url: >-
+      http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 title: ''
