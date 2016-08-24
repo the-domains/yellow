@@ -30,12 +30,12 @@ navigation:
   - name: ABOUT YELLOW
     id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
     type: content
-  - name: JOIN The Grid Community
-    url: 'https://thegrid.io/purchase/pause/'
-    type: external
   - name: CONTACT US
     id: 252e04db-1c5c-4bcc-bd40-1f99620f027f
     type: content
+  - name: JOIN The Grid Community
+    url: 'https://thegrid.io/purchase/pause/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 purpose: []
