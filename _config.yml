@@ -33,7 +33,7 @@ navigation:
   - name: CONTACT US
     id: 252e04db-1c5c-4bcc-bd40-1f99620f027f
     type: content
-  - name: Do you like our site? Join The Grid Community
+  - name: The Grid Community
     url: 'https://thegrid.io/purchase/pause/'
     type: external
 favicon: >-
