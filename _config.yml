@@ -1,5 +1,29 @@
+name: Yellow Conference
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 layout_spectrum: 0.9136206605471671
 typography_spectrum: 0.6543118413537741
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
+navigation:
+  - name: ABOUT YELLOW
+    id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
+    type: content
+  - name: CONTACT US
+    id: 252e04db-1c5c-4bcc-bd40-1f99620f027f
+    type: content
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -8,31 +32,7 @@ color:
     - '#5C5A5B'
     - '#B8B6B7'
   brandStrength: 0.9488088090438396
-  lightness: 0.030214352998882532
+  lightness: 1
   saturation: 0.9906482491642237
   rhythmicContrast: 0.3622216205112636
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
-name: Yellow Conference
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: ABOUT YELLOW
-    id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
-    type: content
-  - name: CONTACT US
-    id: 252e04db-1c5c-4bcc-bd40-1f99620f027f
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 purpose: []
