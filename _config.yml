@@ -27,7 +27,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: ABOUT YELLOW
+  - name: About Yellow
     id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
     type: content
   - name: Contact Us
