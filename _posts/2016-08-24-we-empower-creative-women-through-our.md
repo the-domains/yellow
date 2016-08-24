@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-24T14:10:19.303Z'
+datePublished: '2016-08-24T14:15:02.842Z'
 sourcePath: _posts/2016-08-24-we-empower-creative-women-through-our.md
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-24T14:10:17.723Z'
+dateModified: '2016-08-24T14:15:02.161Z'
 title: WE EMPOWER CREATIVE WOMEN THROUGH OUR...
 publisher: {}
 description: >-
   Annual conference | Community Membership | and a variety of digital content to
   read and learn from.
 starred: false
-url: we-empower-creative-women-through-our/index.html
 _type: Blurb
 
 ---
