@@ -1,33 +1,7 @@
 ---
-author:
-  - name: rebeldotcom
-    url: 'http://twitter.com/rebeldotcom'
-    avatar:
-      src: 'https://pbs.twimg.com/media/CqvDJ9PVMAAVQyd.jpg:large'
-      width: 747
-      height: 747
-      colors:
-        - - 21
-          - 26
-          - 33
-        - - 177
-          - 190
-          - 197
-        - - 124
-          - 133
-          - 138
-        - - 70
-          - 77
-          - 77
-        - - 204
-          - 196
-          - 72
-related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+datePublished: '2016-08-25T22:15:28.600Z'
+sourcePath: _posts/2016-08-25-the-best-coffee-cups-ever-yellow2016-bloomyellow-arebelw.md
+isBasedOnUrl: 'https://twitter.com/rebeldotcom/status/768922740678127616'
 keywords:
   - location
   - twitter
@@ -39,28 +13,57 @@ keywords:
   - bloomyellow
   - arebelwashere
   - aspx
-description: >-
-  The best coffee cups ever. #yellow2016 #bloomyellow #arebelwashere
-  @yellowconfpic.twitter.com/aWjyHdX3ff
-inLanguage: en
+related: []
+author:
+  - name: rebeldotcom
+    url: 'http://twitter.com/rebeldotcom'
+    avatar:
+      src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/56c1ccfa953602576ee4ff1d47481be5a6eb2cd4.jpg
+      original: >-
+        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa42774348ebc5dd4fff3d9114979a8f/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCqvDJ9PVMAAVQyd.jpg%3Alarge
+      width: 747
+      height: 747
+      colors:
+        - - 3
+          - 4
+          - 8
+        - - 191
+          - 200
+          - 209
+        - - 125
+          - 93
+          - 20
+        - - 177
+          - 154
+          - 26
+        - - 103
+          - 126
+          - 157
+via: {}
+dateModified: '2016-08-25T22:15:27.668Z'
+title: ''
 app_links:
   - path: >-
       twitter/tweet?status_id=768922740678127616&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E768922740678127616
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/rebeldotcom/status/768922740678127616'
-datePublished: '2016-08-25T22:12:59.378Z'
-dateModified: '2016-08-25T22:12:38.678Z'
-title: ''
-via: {}
+publisher:
+  url: 'http://twitter.com'
+  name: Twitter
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+  domain: twitter.com
+description: >-
+  The best coffee cups ever. #yellow2016 #bloomyellow #arebelwashere
+  @yellowconfpic.twitter.com/aWjyHdX3ff
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-25-the-best-coffee-cups-ever-yellow2016-bloomyellow-arebelw.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![The best coffee cups ever. #yellow2016 #bloomyellow #arebelwashere @yellowconfpic.twitter.com/aWjyHdX3ff](https://pbs.twimg.com/media/CqvDJ9PVMAAVQyd.jpg:large)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56c1ccfa953602576ee4ff1d47481be5a6eb2cd4.jpg)
