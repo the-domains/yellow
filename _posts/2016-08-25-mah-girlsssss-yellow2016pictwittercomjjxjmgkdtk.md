@@ -1,4 +1,19 @@
 ---
+datePublished: '2016-08-25T22:41:03.265Z'
+sourcePath: _posts/2016-08-25-mah-girlsssss-yellow2016pictwittercomjjxjmgkdtk.md
+isBasedOnUrl: 'https://twitter.com/arielleestoria/status/768917441686536192'
+keywords:
+  - location
+  - twitter
+  - tweet
+  - e3ta361-wo4
+  - ahttps
+  - girlsssss
+  - yellow2016pic
+  - jjxjmgkdtk
+  - arielleestoria
+  - poet
+related: []
 author:
   - name: arielleestoria
     url: 'http://twitter.com/arielleestoria'
@@ -23,43 +38,28 @@ author:
         - - 123
           - 94
           - 69
-related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - location
-  - twitter
-  - tweet
-  - e3ta361-wo4
-  - ahttps
-  - girlsssss
-  - yellow2016pic
-  - jjxjmgkdtk
-  - arielleestoria
-  - poet
-description: 'Mah girlsssss #yellow2016pic.twitter.com/JJxjMGKDTk'
-inLanguage: en
+via: {}
+dateModified: '2016-08-25T22:41:01.953Z'
+title: ''
 app_links:
   - path: >-
       twitter/tweet?status_id=768917441686536192&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E768917441686536192
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/arielleestoria/status/768917441686536192'
-datePublished: '2016-08-25T22:40:43.304Z'
-dateModified: '2016-08-25T22:40:33.927Z'
-title: ''
-via: {}
+publisher:
+  url: 'http://twitter.com'
+  name: Twitter
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+  domain: twitter.com
+description: 'Mah girlsssss #yellow2016pic.twitter.com/JJxjMGKDTk'
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-25-mah-girlsssss-yellow2016pictwittercomjjxjmgkdtk.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Mah girlsssss #yellow2016pic.twitter.com/JJxjMGKDTk](https://pbs.twimg.com/media/Cqu-UVMVMAERmW0.jpg:large)
+![](https://pbs.twimg.com/media/Cqu-UVMVMAERmW0.jpg:large)
