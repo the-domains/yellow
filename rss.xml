@@ -4,8 +4,15 @@
         <description><![CDATA[Yellow Conference]]></description>
         <link>http://yellow.community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 23:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 20:51:54 GMT</lastBuildDate>
         <atom:link href="http://yellow.community/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a6e97b-dfd8-405b-a702-6d8f7d4b2d7e.jpg">]]></description>
+            <link>http://yellow.community/dff11ae0-062a-4dab-a312-93f7742a6b1a/index.html</link>
+            <guid isPermaLink="false">dff11ae0-062a-4dab-a312-93f7742a6b1a</guid>
+            <pubDate>Fri, 26 Aug 2016 20:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29454b49-9604-4540-b4dd-ce538206a7c3.jpg">]]></description>
@@ -61,13 +68,6 @@
             <link>http://yellow.community/a868288f-6538-40ed-aa80-e560bd69504f/index.html</link>
             <guid isPermaLink="false">a868288f-6538-40ed-aa80-e560bd69504f</guid>
             <pubDate>Thu, 25 Aug 2016 19:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Yellow Conference - Promo]]></title>
-            <description><![CDATA[<article><h1>The Yellow Conference - Promo</h1><p>This is "The Yellow Conference - Promo" by ellenwildhagen on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f063cc66f96c8622cb65038bb854619/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F488873799_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/105934806</link>
-            <guid isPermaLink="false">6c68140b-f0dd-4c13-9a29-2bd605f91f63</guid>
-            <pubDate>Wed, 24 Aug 2016 01:23:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
