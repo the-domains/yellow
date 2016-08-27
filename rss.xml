@@ -4,8 +4,15 @@
         <description><![CDATA[Yellow Conference]]></description>
         <link>http://yellow.community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 23:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 23:15:51 GMT</lastBuildDate>
         <atom:link href="http://yellow.community/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"I hope people call you crazy, because that's where the fire lives." @iamthatgirl @yellowconf</p>]]></description>
+            <link>https://twitter.com/jess_ekstrom/status/769308357794549760</link>
+            <guid isPermaLink="false">91b6721c-583f-462e-b69a-98808676d269</guid>
+            <pubDate>Fri, 26 Aug 2016 23:15:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mixing and Mingling at the @yellowconference! #GenerosityWater #LiveGenerously]]></title>
             <description><![CDATA[<article><h1>Mixing and Mingling at the @yellowconference! #GenerosityWater #LiveGenerously</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/413e1d314973a30b97651524a49cdf93/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F14156209_1575599692746275_1195819549_n.jpg%3Fig_cache_key%3DMTMyNTY2Mjk3MDE3MjM3NTU3Mw%253D%253D.2"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://yellow.community/dff11ae0-062a-4dab-a312-93f7742a6b1a/index.html</link>
             <guid isPermaLink="false">dff11ae0-062a-4dab-a312-93f7742a6b1a</guid>
             <pubDate>Fri, 26 Aug 2016 20:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"If you have the opportunity to help someone along their path, take it." - @jessicahische #yellow2016</p>]]></description>
-            <link>https://twitter.com/idealustlife/status/768924703649992705</link>
-            <guid isPermaLink="false">9f60d2eb-b83a-432a-a345-d59bdfba6a7d</guid>
-            <pubDate>Thu, 25 Aug 2016 23:13:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
