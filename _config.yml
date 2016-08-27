@@ -1,31 +1,39 @@
-typography_spectrum: 0.4942460241727531
+title: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.625
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#231F20'
     - '#FADB31'
     - '#5C5A5B'
     - '#B8B6B7'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.625
   rhythmicContrast: 0.3622216205112635
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5522262649610639
-analytics:
-  google: UA-50607580-7
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
-name: Yellow Conference
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-50607580-7
+  facebook: null
+name: Yellow Conference
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
 navigation:
   - name: About Yellow
     id: 1180ffe3-c6b9-4c9e-9a3c-14f879710cf8
@@ -43,7 +51,11 @@ navigation:
   - name: 'Buy Tickets '
     url: 'https://www.universe.com/events/yellow-conference-2016-tickets-F2Q869'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
-title: ''
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9e51cd-7f42-4d7d-83ca-a95b460f6d52.png
+typography_spectrum: 0.4942460241727531
+layout_spectrum: 0.5522262649610639
